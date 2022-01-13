@@ -23,3 +23,8 @@ You generate one uniform random number at a time between 0 and 1 in the followin
   What is the expected number of random numbers you generate? 
   
 Answer these two questions analytically and then run simulation in Python to verify your results.
+
+## 3. [reservoir sampling](/solutions/reservoir_sampling.ipynb)
+
+There is a list `S` containing n items, where n is unknown or too large to fit the whole list to main memory. 
+Write a Python program to randomly sample k items from the input list without replacement.
